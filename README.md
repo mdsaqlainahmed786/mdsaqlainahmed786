@@ -3,7 +3,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ### Student and Aspiring Web Developer
 
-I'm currently a student pursuing my BE in 2nd year. Since I joined college, I was very interested in technology and wanted to know how these things work in real life...
+I'm currently a student pursuing my BE in 3rd year. Since I joined college, I was very interested in technology and wanted to know how these things work in real life...
 
 - 🌍 I'm from a planet in solar system
 - 📧 You can contact me at [riyanahmed1703@gmail.com](mailto:riyanahmed1703@gmail.com)
