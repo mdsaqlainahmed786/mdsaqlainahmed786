@@ -28,7 +28,7 @@ I'm currently a student pursuing my BE in 3rd year. Since I joined college, I wa
   <a href="https://www.github.com/mdsaqlainahmed786" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/3d-fluency/512/github.png" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/moahmmed-saqlain-ahmed-b7720130a/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mohammed-saqlain-ahmed-b7720130a/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/512/linkedin.png" width="32" height="32" />
   </a>
 </p>
